@@ -1,4 +1,4 @@
-# designpattern-SampleProject
+# Employee ASSET Management System (designpattern-SampleProject)
 
 This is a sample Design Pattern Learning Project with implementation of Creational design pattern.
 such as Singleton, Factory, Factory Method & Abstract Factory Method according to different requirement basis.
